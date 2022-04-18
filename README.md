@@ -11,9 +11,11 @@ in order to view the data easier and allow for filtering to produce more specifi
 
 ![Screen Shot 2022-04-17 at 11 53 19 PM](https://user-images.githubusercontent.com/96351971/163768226-a8b51b80-cc5a-4542-8ed3-d70d1d333746.png)
 
+
 3. Results
 Our analysis shows that launching a Theater type campign is a viable option and that May is the best month to launch and that January is the wordt month to launch. Our data shows that 61% of campaigns in the Theater / Play industry are successful and that $4,000 goal is a feasible goal.  I would recommend commiting to a goal of up to $15,000. 
 
+Summary of limitations and Difficulties
 Our data does not show analysis based on every country. It would be useful to see how each campaign performed in different areas of the world. It also does not show the length of the campaigns compared to the successful and failed outcomes. It would be also use to dive into the length of the campain vs  the campign goals and outcomes. 
 
 
